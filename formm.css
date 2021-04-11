@@ -1,0 +1,35 @@
+body{
+	font-size: 50px
+
+	font-weight:30px;
+	
+	background-color: orange;
+	margin-left: 30px;
+	padding :40px
+	border:dotted 20px black;
+	background-image: url("file:///C:/Users/GOUTAM/Desktop/champions-champions-league-football-uefa-wallpaper-preview.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position: center;
+}
+*{
+	padding:5px;
+	margin:5px;
+}
+form
+{
+	color:tomato;
+	
+	border:3px solid whitesmoke;
+}
+
+a : hover{
+	background-color: black;
+
+}
+
+.myclass{
+	font-size:30px;
+	text-align:center;s 
+
+}
